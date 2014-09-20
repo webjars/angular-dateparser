@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-dateparser</artifactId>
-    <version>1.0.9-SNAPSHOT</version>
+    <version>1.0.9</version>
     <name>Angular DateParser</name>
     <description>WebJar for Angular DateParser</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/angular-dateparser</url>
         <connection>scm:git:https://github.com/webjars/angular-dateparser.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-dateparser.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>angular-dateparser-1.0.9</tag>
     </scm>
 
     <dependencies>
